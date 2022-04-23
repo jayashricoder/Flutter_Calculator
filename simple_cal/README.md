@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+#calculator output
+![image](https://user-images.githubusercontent.com/104199023/164885243-7cdf12ef-eb80-45d1-94ae-4bfcd8cc733d.png)
 
 This project is a starting point for a Flutter application.
 
