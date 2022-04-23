@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 #calculator output
-![image](https://user-images.githubusercontent.com/104199023/164885243-7cdf12ef-eb80-45d1-94ae-4bfcd8cc733d.png)
+![image](https://user-images.githubusercontent.com/104199023/164886307-20095b90-6fca-4188-83d1-f00638937a46.png)
 
 This project is a starting point for a Flutter application.
 
